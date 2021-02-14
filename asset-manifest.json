@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio-cam/static/css/main.574bf7a3.chunk.css",
+    "main.js": "/portfolio-cam/static/js/main.348a5d3b.chunk.js",
+    "main.js.map": "/portfolio-cam/static/js/main.348a5d3b.chunk.js.map",
+    "runtime-main.js": "/portfolio-cam/static/js/runtime-main.8d2b20d6.js",
+    "runtime-main.js.map": "/portfolio-cam/static/js/runtime-main.8d2b20d6.js.map",
+    "static/js/2.988d41ec.chunk.js": "/portfolio-cam/static/js/2.988d41ec.chunk.js",
+    "static/js/2.988d41ec.chunk.js.map": "/portfolio-cam/static/js/2.988d41ec.chunk.js.map",
+    "static/js/3.46cb9f24.chunk.js": "/portfolio-cam/static/js/3.46cb9f24.chunk.js",
+    "static/js/3.46cb9f24.chunk.js.map": "/portfolio-cam/static/js/3.46cb9f24.chunk.js.map",
+    "index.html": "/portfolio-cam/index.html",
+    "static/css/main.574bf7a3.chunk.css.map": "/portfolio-cam/static/css/main.574bf7a3.chunk.css.map",
+    "static/js/2.988d41ec.chunk.js.LICENSE.txt": "/portfolio-cam/static/js/2.988d41ec.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/portfolio-cam/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d2b20d6.js",
+    "static/js/2.988d41ec.chunk.js",
+    "static/css/main.574bf7a3.chunk.css",
+    "static/js/main.348a5d3b.chunk.js"
+  ]
+}
